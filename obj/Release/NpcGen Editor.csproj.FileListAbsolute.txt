@@ -1,0 +1,47 @@
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\NpcGen Editor.exe
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\NpcGen Editor.exe.config
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.BonusSkins.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Data.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Dialogs.v22.2.Core.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Drawing.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Printing.v22.2.Core.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Utils.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraBars.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraDialogs.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraEditors.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraGrid.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraLayout.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Office.v22.2.Core.dll
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Printing.v22.2.Core.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Data.v22.2.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Utils.v22.2.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraBars.v22.2.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraDialogs.v22.2.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraEditors.v22.2.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraGrid.v22.2.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraLayout.v22.2.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\bin\Release\DevExpress.Office.v22.2.Core.xml
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Release\NpcGen Editor.csproj.AssemblyReference.cache
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Release\NpcGen_Editor.Main.resources
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Release\NpcGen_Editor.Properties.Resources.resources
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Release\NpcGen_Editor.TelaInicio.resources
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Release\NpcGen Editor.csproj.GenerateResource.cache
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Release\NpcGen Editor.exe.licenses
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Release\NpcGen Editor.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Release\NpcGen E.C870D024.Up2Date
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Release\NpcGen Editor.exe
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Release\NpcGen Editor.pdb

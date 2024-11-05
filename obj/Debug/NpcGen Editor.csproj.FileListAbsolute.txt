@@ -1,0 +1,5 @@
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Debug\NpcGen Editor.csproj.AssemblyReference.cache
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Debug\NpcGen_Editor.Main.resources
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Debug\NpcGen_Editor.Properties.Resources.resources
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Debug\NpcGen Editor.csproj.GenerateResource.cache
+C:\Users\GUSTAVO\Downloads\NpcGenEditorByAlien-master\NpcGenEditorByAlien-master\NpcGen Editor\obj\Debug\NpcGen Editor.exe.licenses
