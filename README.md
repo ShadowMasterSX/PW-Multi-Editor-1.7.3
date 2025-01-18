@@ -1,9 +1,8 @@
-O que contém:
+What it contains
 
+1- Modified NPCGen editor (same as others, but you can add the mob/npc/dynamic/trigger directly from the map viewer by clicking the second mouse button)
 
-1- Editor de NPCGen modificado (o mesmo de outros, porém da para adicionar o mob/npc/dynamic/trigger diretamento do visualizador de mapas clicando no segundo botão do mouse)
+2- Precinct editor (you can add areas in the map viewer and add points by clicking Ctrl+left-click, you can also drag the points)
 
-2- Editor de precinct (da para adicionar áreas no visualizador de mapa e adiconar pontos clicando em Ctrl+click esquerdo, também é possível arrastar os pontos)
-
-3- Editor de GS (com possível suporte a 1.7.3, não testado)
+3- GS editor with possible support for 1.7.3
 
